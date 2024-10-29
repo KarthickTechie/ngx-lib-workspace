@@ -10,6 +10,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "ngx-super-dashboard": [
+        "./dist/ngx-super-dashboard"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
